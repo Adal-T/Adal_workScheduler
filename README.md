@@ -6,7 +6,7 @@ With this App you can create a schedule based off the business work day
 
 ## Installation
 
-N/A
+Use my github Repository
 
 ## Usage
 
